@@ -1,0 +1,15 @@
+C:\Users\spqrr\Documents\GitHub\SoTF\ProximityChat\Project\ProximityChat\bin\Debug\Project.deps.json
+C:\Users\spqrr\Documents\GitHub\SoTF\ProximityChat\Project\ProximityChat\bin\Debug\Project.dll
+C:\Users\spqrr\Documents\GitHub\SoTF\ProximityChat\Project\ProximityChat\bin\Debug\Project.pdb
+C:\Users\spqrr\Documents\GitHub\SoTF\ProximityChat\Project\ProximityChat\obj\Debug\ProximityChat.csproj.AssemblyReference.cache
+C:\Users\spqrr\Documents\GitHub\SoTF\ProximityChat\Project\ProximityChat\obj\Debug\ProximityChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spqrr\Documents\GitHub\SoTF\ProximityChat\Project\ProximityChat\obj\Debug\ProximityChat.AssemblyInfoInputs.cache
+C:\Users\spqrr\Documents\GitHub\SoTF\ProximityChat\Project\ProximityChat\obj\Debug\ProximityChat.AssemblyInfo.cs
+C:\Users\spqrr\Documents\GitHub\SoTF\ProximityChat\Project\ProximityChat\obj\Debug\ProximityChat.csproj.CoreCompileInputs.cache
+C:\Users\spqrr\AppData\Roaming\r2modmanPlus-local\SonsOfTheForest\profiles\ProximityChat\BepInEx\plugins\Project\Project.deps.json
+C:\Users\spqrr\AppData\Roaming\r2modmanPlus-local\SonsOfTheForest\profiles\ProximityChat\BepInEx\plugins\Project\Project.dll
+C:\Users\spqrr\AppData\Roaming\r2modmanPlus-local\SonsOfTheForest\profiles\ProximityChat\BepInEx\plugins\ProximityChat\ProximityChat.deps.json
+C:\Users\spqrr\AppData\Roaming\r2modmanPlus-local\SonsOfTheForest\profiles\ProximityChat\BepInEx\plugins\ProximityChat\ProximityChat.dll
+C:\Users\spqrr\Documents\GitHub\SoTF\ProximityChat\Project\ProximityChat\obj\Debug\ProximityChat.dll
+C:\Users\spqrr\Documents\GitHub\SoTF\ProximityChat\Project\ProximityChat\obj\Debug\refint\ProximityChat.dll
+C:\Users\spqrr\Documents\GitHub\SoTF\ProximityChat\Project\ProximityChat\obj\Debug\ref\ProximityChat.dll
